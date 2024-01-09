@@ -6,10 +6,10 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Jan Szedlacsek
+title: Automation Engineer
+email: ---@---.--
+website: www.---.---
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -76,10 +76,10 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: The Boring Company
+        title: Smart Automation Solutions GmbH
         link: boringcompany.com
         # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
+        sub_title: Automation Engineer / Managing Director
         caption: November 2017 - Present
         quote: >
           Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
