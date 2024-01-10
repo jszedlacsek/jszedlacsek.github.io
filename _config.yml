@@ -65,11 +65,12 @@ content:
         quote: >
           Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            The Smart Automation Solutions GmbH is your competent partner for services in the field of industrial automation. With our team of experienced automation engineers, we offer you individual solutions for your requirements.
-            
-            Our services include the conception and planning of automated systems, the programming of PLCs and the integration of control systems and visualization software. We always strive for efficient and reliable implementation to provide you with maximum security and quality.
-            
-            In addition to our technical expertise, we attach great importance to close cooperation with our customers and open communication. This allows us to develop and implement individual solutions for your challenges together.
+            The Smart Automation Solutions GmbH is your competent partner for services in the field of industrial automation. 
+            With our team of experienced automation engineers, we offer you individual solutions for your requirements.            
+            Our services include the conception and planning of automated systems, the programming of PLCs and the integration of control systems and visualization software. 
+            We always strive for efficient and reliable implementation to provide you with maximum security and quality.            
+            In addition to our technical expertise, we attach great importance to close cooperation with our customers and open communication. 
+            This allows us to develop and implement individual solutions for your challenges together.
             
             Learn more about our services and let us advise you. We look forward to getting to know you.
 
