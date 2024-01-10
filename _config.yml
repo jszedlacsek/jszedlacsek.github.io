@@ -50,7 +50,7 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Jan and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
 
-  I am most skilled in: <mark>Step 7</mark> <mark>TIA</mark>
+  I am most skilled in: <mark>Electrical Engineering</mark>  <mark>PLC Programming</mark>  <mark>Commissioning</mark>  <mark>Troubleshooting and Problem-Solving</mark>  <mark>Project Management</mark>  <mark>Industrial Networking</mark>
 
 content:
   - title: Projects # Title for the section
